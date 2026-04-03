@@ -1,0 +1,15 @@
+D:\Data Structures\C#\OperatorOvl\bin\Debug\net10.0\OperatorOvl.exe
+D:\Data Structures\C#\OperatorOvl\bin\Debug\net10.0\OperatorOvl.deps.json
+D:\Data Structures\C#\OperatorOvl\bin\Debug\net10.0\OperatorOvl.runtimeconfig.json
+D:\Data Structures\C#\OperatorOvl\bin\Debug\net10.0\OperatorOvl.dll
+D:\Data Structures\C#\OperatorOvl\bin\Debug\net10.0\OperatorOvl.pdb
+D:\Data Structures\C#\OperatorOvl\obj\Debug\net10.0\OperatorOvl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structures\C#\OperatorOvl\obj\Debug\net10.0\OperatorOvl.AssemblyInfoInputs.cache
+D:\Data Structures\C#\OperatorOvl\obj\Debug\net10.0\OperatorOvl.AssemblyInfo.cs
+D:\Data Structures\C#\OperatorOvl\obj\Debug\net10.0\OperatorOvl.csproj.CoreCompileInputs.cache
+D:\Data Structures\C#\OperatorOvl\obj\Debug\net10.0\OperatorOvl.sourcelink.json
+D:\Data Structures\C#\OperatorOvl\obj\Debug\net10.0\OperatorOvl.dll
+D:\Data Structures\C#\OperatorOvl\obj\Debug\net10.0\refint\OperatorOvl.dll
+D:\Data Structures\C#\OperatorOvl\obj\Debug\net10.0\OperatorOvl.pdb
+D:\Data Structures\C#\OperatorOvl\obj\Debug\net10.0\OperatorOvl.genruntimeconfig.cache
+D:\Data Structures\C#\OperatorOvl\obj\Debug\net10.0\ref\OperatorOvl.dll

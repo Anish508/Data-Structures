@@ -99,12 +99,12 @@ int main()
       if (n <= 1)
       {
             cout << "Please enter a positive value";
-            return 0;
+            return -1;
       }
       if (n == 2 || n == 3)
       {
             cout << "Plaese enter valid input!";
-            return 0;
+            return -1;
       }
 
       NQueens nq(n);
