@@ -1,0 +1,15 @@
+D:\Data Structures\C#\jaggedArray\obj\Debug\net10.0\jaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structures\C#\jaggedArray\obj\Debug\net10.0\jaggedArray.AssemblyInfoInputs.cache
+D:\Data Structures\C#\jaggedArray\obj\Debug\net10.0\jaggedArray.AssemblyInfo.cs
+D:\Data Structures\C#\jaggedArray\obj\Debug\net10.0\jaggedArray.csproj.CoreCompileInputs.cache
+D:\Data Structures\C#\jaggedArray\obj\Debug\net10.0\jaggedArray.sourcelink.json
+D:\Data Structures\C#\jaggedArray\bin\Debug\net10.0\jaggedArray.exe
+D:\Data Structures\C#\jaggedArray\bin\Debug\net10.0\jaggedArray.deps.json
+D:\Data Structures\C#\jaggedArray\bin\Debug\net10.0\jaggedArray.runtimeconfig.json
+D:\Data Structures\C#\jaggedArray\bin\Debug\net10.0\jaggedArray.dll
+D:\Data Structures\C#\jaggedArray\bin\Debug\net10.0\jaggedArray.pdb
+D:\Data Structures\C#\jaggedArray\obj\Debug\net10.0\jaggedArray.dll
+D:\Data Structures\C#\jaggedArray\obj\Debug\net10.0\refint\jaggedArray.dll
+D:\Data Structures\C#\jaggedArray\obj\Debug\net10.0\jaggedArray.pdb
+D:\Data Structures\C#\jaggedArray\obj\Debug\net10.0\jaggedArray.genruntimeconfig.cache
+D:\Data Structures\C#\jaggedArray\obj\Debug\net10.0\ref\jaggedArray.dll
