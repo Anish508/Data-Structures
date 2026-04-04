@@ -1,0 +1,15 @@
+D:\Data Structures\C#\StringComparision\obj\Debug\net10.0\StringComparision.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structures\C#\StringComparision\obj\Debug\net10.0\StringComparision.AssemblyInfoInputs.cache
+D:\Data Structures\C#\StringComparision\obj\Debug\net10.0\StringComparision.AssemblyInfo.cs
+D:\Data Structures\C#\StringComparision\obj\Debug\net10.0\StringComparision.csproj.CoreCompileInputs.cache
+D:\Data Structures\C#\StringComparision\obj\Debug\net10.0\StringComparision.sourcelink.json
+D:\Data Structures\C#\StringComparision\bin\Debug\net10.0\StringComparision.exe
+D:\Data Structures\C#\StringComparision\bin\Debug\net10.0\StringComparision.deps.json
+D:\Data Structures\C#\StringComparision\bin\Debug\net10.0\StringComparision.runtimeconfig.json
+D:\Data Structures\C#\StringComparision\bin\Debug\net10.0\StringComparision.dll
+D:\Data Structures\C#\StringComparision\bin\Debug\net10.0\StringComparision.pdb
+D:\Data Structures\C#\StringComparision\obj\Debug\net10.0\StringComparision.dll
+D:\Data Structures\C#\StringComparision\obj\Debug\net10.0\refint\StringComparision.dll
+D:\Data Structures\C#\StringComparision\obj\Debug\net10.0\StringComparision.pdb
+D:\Data Structures\C#\StringComparision\obj\Debug\net10.0\StringComparision.genruntimeconfig.cache
+D:\Data Structures\C#\StringComparision\obj\Debug\net10.0\ref\StringComparision.dll
